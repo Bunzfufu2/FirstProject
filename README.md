@@ -1,1 +1,2 @@
 # FirstProject
+print("Hello World")
